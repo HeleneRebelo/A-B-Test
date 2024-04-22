@@ -15,6 +15,7 @@ The steps that should be followed in A/B testing:
 
 ## Context
 On the Montana State University (MSU) Library website there is a search bar and three big items: “Find”, “Request” and “Interact”, all of which need to have similar click-through rates (CTR).
-
-P colocar imagem 
  ![website_montana](https://github.com/HeleneRebelo/A-B-Test/blob/main/images/website_montana.png)
+
+ Everyone has access to important information and services, however, Website Analytics shows that the "Interact" button almost doesn't have interaction, as we can see in the image below:
+ ![interactions_website](https://github.com/HeleneRebelo/A-B-Test/blob/main/images/interactions_website.png)
