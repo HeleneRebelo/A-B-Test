@@ -64,7 +64,7 @@ The website team has made the decision to conduct testing on four new variations
 
 /Montana: Montana State University Case Study. Within this folder, there are the following subfolders:
 
-/docs: This directory contains images of the website with its interactions when using the words: "Interact", Connect, Learn, Help, and Services.
+    /docs: This directory contains images of the website with its interactions when using the words: "Interact", Connect, Learn, Help, and Services.
 
-/src: Inside this folder, you will find the Notebook with the codes.
+    /src: Inside this folder, you will find the Notebook with the codes.
 
