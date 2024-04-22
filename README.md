@@ -51,15 +51,16 @@ In order of preferences of the choices, this student responded: Help, Services, 
 The website team has made the decision to conduct testing on four new variations in comparison to the original "Interact" button. These variants include Connect, Learn, Help, and Services. The primary objective of this experiment is to ascertain which version produces a superior click-through rate (CTR).
 
 #### Specifications: 
-duration 21 days
-5 Versions for the headline: Interact / Connect / Learn / Help / Services
-Measured primary KPI: CTR
-second KPIs: drop off on category site / Homepage return rate
-Minimum detectable effect: 20% in CTR
+
+- duration 21 days
+- 5 Versions for the headline: Interact / Connect / Learn / Help / Services
+- Measured primary KPI: CTR
+- second KPIs: drop off on category site / Homepage return rate
+- Minimum detectable effect: 20% in CTR
 
 ## Folder Structure
 
-/A/B testing: Learning the steps of the A/B test
+/AB_testing: Learning the steps of the A/B test
 
 /Montana: Montana State University Case Study. Within this folder, there are the following subfolders:
 
