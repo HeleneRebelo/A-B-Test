@@ -17,4 +17,4 @@ The steps that should be followed in A/B testing:
 On the Montana State University (MSU) Library website there is a search bar and three big items: “Find”, “Request” and “Interact”, all of which need to have similar click-through rates (CTR).
 
 P colocar imagem 
- ![website_montana](https://github.com/HeleneRebelo/A-B-Test/tree/main/images/website_montana.png)
+ ![website_montana](https://github.com/HeleneRebelo/A-B-Test/blob/main/images/website_montana.png)
